@@ -3,6 +3,7 @@ header {
     padding: 5px;
     border: 1.5px solid black;
     background-color: rgb(206, 204, 101);
+    color: #000;
 }
 
 main {
@@ -10,11 +11,13 @@ main {
     padding: 30px;
     border: 1.5px solid black;
     background-color: rgb(88, 167, 86);
+    color: #fbff00;
 }
 
 footer {
     margin: 15px;
     padding: 15px;
     border: 1.5px solid black;
-    background-color: rgb(74, 71, 241);
+    background-color: rgb(15, 14, 53);
+    color: #fff;
 }
