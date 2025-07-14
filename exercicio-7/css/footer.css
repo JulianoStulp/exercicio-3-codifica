@@ -1,0 +1,15 @@
+.footer {
+  display: flex;
+  height: 187px;
+  background: #fff;
+}
+
+.footer-container {
+  padding: 40px 0;
+}
+
+.menu-footer-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
